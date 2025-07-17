@@ -1,6 +1,13 @@
-# NLP_basics
-This notebooks contains various NLP projects
+# 🧠 NLP Projects
 
-Link for the dataset used in NLP Text pre-processing notebook: https://www.kaggle.com/campusx/text-preprocessing/data
+This repository showcases key NLP techniques from basic text preprocessing, word embeddings, RNN, LSTM, Transformers, and BERT.
 
-Link for the dataset used in Custon Name Entity Recognition(NER) notebook:https://www.kaggle.com/datasets/finalepoch/medical-ner
+## 📄 Notebooks Included
+- **Text Preprocessing:** Stemming, Lemmatization, Stopwords, Bag-of-Words, TF-IDF  
+- **Embeddings:** Word2Vec, AvgWord2Vec, GloVe, FastText  
+- **Deep Learning:** Fake news detection using LSTM
+
+## 🔧 Tools
+Python · NLTK · Gensim · Scikit-learn · Keras · TensorFlow
+
+Explore, learn, and build intelligent NLP systems!
