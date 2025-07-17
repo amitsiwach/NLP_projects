@@ -1,0 +1,6 @@
+1. dataset
+2. Independent and Dependent variables
+3. Cleaning the data a)Stemming b)Stop words
+4. Fix a sentence length to fix the input
+5. One hot representation, Embedding
+6. LSTM Neural Network. Add Dropout layer to avoid overfitting
