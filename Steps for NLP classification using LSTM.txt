@@ -4,3 +4,5 @@
 4. Fix a sentence length to fix the input
 5. One hot representation, Embedding
 6. LSTM Neural Network. Add Dropout layer to avoid overfitting
+7. TRain the model
+8 Predict & evaluate
